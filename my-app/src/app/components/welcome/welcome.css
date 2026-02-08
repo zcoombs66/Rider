@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #60a5fa, #93c5fd); /* soft blue gradient */
+    background: linear-gradient(135deg, #60a5fa, #93c5fd);
     text-align: center;
     padding: 2rem;
     font-family: Arial, sans-serif;

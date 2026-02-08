@@ -1,0 +1,12 @@
+.container-stat {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  min-height: 100vh;
+  max-width: none;
+  background: linear-gradient(135deg, #60a5fa, #93c5fd); /* soft blue gradient */
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}

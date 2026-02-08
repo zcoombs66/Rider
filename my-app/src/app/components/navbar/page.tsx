@@ -14,8 +14,8 @@ export default function NavBar() {
                 <button onClick={()=> router.push('/')}>Home</button>
             </div>
             <div className="flex space-x-2">    
-                <button onClick={()=> router.push('/signIn')}>Log In</button>
-                <button onClick={()=> router.push('/signUp')}>Sign Up</button>
+                {/* <button onClick={()=> router.push('/signIn')}>Log In</button>
+                <button onClick={()=> router.push('/signUp')}>Sign Up</button> */}
             </div>
 
 
