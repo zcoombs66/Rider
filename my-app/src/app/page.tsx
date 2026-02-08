@@ -1,3 +1,4 @@
+'use client'
 import Front from "./components/front/page";
 
 export default function Home() {
